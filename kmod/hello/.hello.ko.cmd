@@ -1,0 +1,1 @@
+cmd_/home/khwarizmi/git/kernel_exp/kmod/hello/hello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/khwarizmi/git/kernel_exp/kmod/hello/hello.ko /home/khwarizmi/git/kernel_exp/kmod/hello/hello.o /home/khwarizmi/git/kernel_exp/kmod/hello/hello.mod.o
